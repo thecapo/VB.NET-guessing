@@ -1,0 +1,14 @@
+C:\Users\bhi1599017\Downloads\variable\variable\bin\Debug\variable.exe.config
+C:\Users\bhi1599017\Downloads\variable\variable\obj\Debug\variable.Form1.resources
+C:\Users\bhi1599017\Downloads\variable\variable\obj\Debug\variable.Resources.resources
+C:\Users\bhi1599017\Downloads\variable\variable\obj\Debug\variable.vbproj.GenerateResource.Cache
+C:\Users\bhi1599017\Downloads\variable\variable\bin\Debug\variable.exe
+C:\Users\bhi1599017\Downloads\variable\variable\bin\Debug\variable.pdb
+C:\Users\bhi1599017\Downloads\variable\variable\bin\Debug\variable.xml
+C:\Users\bhi1599017\Downloads\variable\variable\obj\Debug\variable.exe
+C:\Users\bhi1599017\Downloads\variable\variable\obj\Debug\variable.xml
+C:\Users\bhi1599017\Downloads\variable\variable\obj\Debug\variable.pdb
+F:\BOX HILL\INTRO TO PROGRAMMING\march 3\variable\variable\bin\Debug\variable.exe.config
+F:\BOX HILL\INTRO TO PROGRAMMING\march 3\variable\variable\obj\Debug\variable.exe
+F:\BOX HILL\INTRO TO PROGRAMMING\march 3\variable\variable\obj\Debug\variable.xml
+F:\BOX HILL\INTRO TO PROGRAMMING\march 3\variable\variable\obj\Debug\variable.pdb
